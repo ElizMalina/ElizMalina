@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
-**ElizMalina/ElizMalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Меня зовут Елизавета
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Я учусь в Санкт-Петербургском государственном университете на факультете Прикладной математики - процессов управления по направлению "Программирование и информационные технологии".
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
