@@ -17,7 +17,7 @@ I am a student at St. Petersburg State University, Faculty of Applied Mathematic
 
 📚 **Libraries:**  
 
-![STL](https://img.shields.io/badge/STL-C++-00599C?style=for-the-badge) ![std::thread](https://img.shields.io/badge/std::thread-C++-blue?style=for-the-badge)
+![STL](https://img.shields.io/badge/STL-C++-00599C?style=for-the-badge) 
 
 
 ⚙️ **Assembly Tools:**  
